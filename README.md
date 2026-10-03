@@ -10,17 +10,17 @@ A comprehensive machine learning project for predicting diabetes risk using the 
 
 
 ### Model Comparison Dashboard
-![Model Comparison](screenshots/comparison.png)  
+![Model Comparison](Screenshot/comparison.png)  
 
 
 
 ### Make a Prediction
-![Prediction](screenshots/Prediction.png)  
+![Prediction](Screenshot/Prediction.png)  
 
 
 
 ### Model Comparison Results
-![Results](screenshots/results.png)
+![Results](Screenshot/results.png)
 
 *Interactive Streamlit application for diabetes risk prediction*
 
